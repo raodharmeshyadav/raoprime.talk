@@ -1,0 +1,8 @@
+{
+  "name": "Copy of RAOPRIME TALK",
+  "description": "A dedicated conversational AI app offering both fast text chat and real-time voice conversations using Gemini Live.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
