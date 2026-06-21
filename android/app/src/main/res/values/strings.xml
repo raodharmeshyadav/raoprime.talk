@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DocStore</string>
+    <string name="title_activity_main">DocStore</string>
+    <string name="package_name">com.docstore.app</string>
+    <string name="custom_url_scheme">com.docstore.app</string>
+</resources>
